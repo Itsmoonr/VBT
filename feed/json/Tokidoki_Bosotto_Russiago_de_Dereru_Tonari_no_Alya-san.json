@@ -3,12 +3,56 @@
   "rows": [
     {
       "author": "Sunsunsun, Minh họa: Momoco",
+      "isbn": "978-604-2-39957-9",
+      "partner": "",
+      "quantity": "80000",
+      "registration_number": "32-2026/CXBIPH/189-03/KĐ",
+      "self_published": "x",
+      "stt": "1",
+      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 10 (Limited Edition)",
+      "translator": "Trân Trân"
+    },
+    {
+      "author": "Sunsunsun, Minh họa: Momoco",
+      "isbn": "978-604-2-39956-2",
+      "partner": "",
+      "quantity": "80000",
+      "registration_number": "32-2026/CXBIPH/188-03/KĐ",
+      "self_published": "x",
+      "stt": "2",
+      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 10",
+      "translator": "Trân Trân"
+    },
+    {
+      "author": "Sunsunsun, Minh họa: Momoco",
+      "isbn": "978-604-2-39935-7",
+      "partner": "",
+      "quantity": "80000",
+      "registration_number": "32-2026/CXBIPH/167-03/KĐ",
+      "self_published": "x",
+      "stt": "3",
+      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 9 (Limited Edition)",
+      "translator": "Trân Trân"
+    },
+    {
+      "author": "Sunsunsun, Minh họa: Momoco",
+      "isbn": "978-604-2-39934-0",
+      "partner": "",
+      "quantity": "80000",
+      "registration_number": "32-2026/CXBIPH/166-03/KĐ",
+      "self_published": "x",
+      "stt": "4",
+      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 9",
+      "translator": "Trân Trân"
+    },
+    {
+      "author": "Sunsunsun, Minh họa: Momoco",
       "isbn": "978-604-2-39317-1",
       "partner": "",
       "quantity": "80000",
       "registration_number": "3454-2025/CXBIPH/1-293/KĐ",
       "self_published": "x",
-      "stt": "1",
+      "stt": "5",
       "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 8 (Limited Edition)",
       "translator": "Trân Trân"
     },
@@ -19,7 +63,7 @@
       "quantity": "90000",
       "registration_number": "2550-2025/CXBIPH/8-213/KĐ",
       "self_published": "x",
-      "stt": "2",
+      "stt": "6",
       "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 8",
       "translator": "Trân Trân"
     },
@@ -30,7 +74,7 @@
       "quantity": "99000",
       "registration_number": "96-2025/CXBIPH/40-05/KĐ",
       "self_published": "x",
-      "stt": "3",
+      "stt": "7",
       "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 7 (Limited Edition)",
       "translator": "Trân Trân"
     },
@@ -41,7 +85,7 @@
       "quantity": "99000",
       "registration_number": "96-2025/CXBIPH/39-05/KĐ",
       "self_published": "x",
-      "stt": "4",
+      "stt": "8",
       "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 7",
       "translator": "Trân Trân"
     },
@@ -52,7 +96,7 @@
       "quantity": "99000",
       "registration_number": "65-2025/CXBIPH/166-04/KĐ",
       "self_published": "x",
-      "stt": "5",
+      "stt": "9",
       "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 4.5",
       "translator": "Trân Trân"
     },
@@ -63,52 +107,8 @@
       "quantity": "99000",
       "registration_number": "65-2025/CXBIPH/165-04/KĐ",
       "self_published": "x",
-      "stt": "6",
-      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 6",
-      "translator": "Trân Trân"
-    },
-    {
-      "author": "Sunsunsun, Minh hoạ: Momoco",
-      "isbn": "978-604-2-38105-5",
-      "partner": "",
-      "quantity": "99000",
-      "registration_number": "65-2025/CXBIPH/164-04/KĐ",
-      "self_published": "x",
-      "stt": "7",
-      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 5",
-      "translator": "Trân Trân"
-    },
-    {
-      "author": "Sunsunsun, Minh hoạ: Momoco",
-      "isbn": "978-604-2-32898-2",
-      "partner": "",
-      "quantity": "99000",
-      "registration_number": "65-2025/CXBIPH/163-04/KĐ",
-      "self_published": "x",
-      "stt": "8",
-      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 4",
-      "translator": "Trân Trân"
-    },
-    {
-      "author": "Sunsunsun, Minh hoạ: Momoco",
-      "isbn": "978-604-2-28316-8",
-      "partner": "",
-      "quantity": "99000",
-      "registration_number": "65-2025/CXBIPH/162-04/KĐ",
-      "self_published": "x",
-      "stt": "9",
-      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 3",
-      "translator": "Trân Trân"
-    },
-    {
-      "author": "Sunsunsun, Minh hoạ: Momoco",
-      "isbn": "978-604-2-27704-4",
-      "partner": "",
-      "quantity": "99000",
-      "registration_number": "65-2025/CXBIPH/161-04/KĐ",
-      "self_published": "x",
       "stt": "10",
-      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 2",
+      "title": "Arya bàn bên thỉnh thoảng lại trêu ghẹo tôi bằng tiếng Nga - Tập 6",
       "translator": "Trân Trân"
     }
   ]
